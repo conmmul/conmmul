@@ -7,6 +7,7 @@ My name is Connor Mullins and my main interests are in structural biology, machi
 - I am currently learning about GNNs for protein-ligand interaction and protein folding
 - I am a researcher in the [McLellan Lab](https://www.mclellanlab.org/research) for structure-based vaccine design using Cryo-EM
 - I enjoy building PCs and [overclocking](https://hwbot.org/user/conmul/)
+- I have been playing the drums for 8 years [(solo)](https://youtu.be/yvHoOdJAX2o?si=qIEoOzTwz4L7sydR)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
